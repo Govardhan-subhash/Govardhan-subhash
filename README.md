@@ -1,98 +1,89 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1>Hi there, I'm Govardhana Subhash Meda</h1>
-  <p>
-    A Software Development Engineer passionate about building intelligent, scalable systems at the intersection of AI and core software engineering.
-  </p>
+  <h1 align="center">Hi there, I'm Govardhana Subhash Meda</h1>
+  <h3 align="center">An Aspiring Software Development Engineer crafting intelligent, scalable systems.</h3>
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/govardhana-subhash-9392676529k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:govardhanasubhashmeda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a final-year B.Tech student in **Computer Science & Artificial Intelligence** with a strong foundation in Data Structures, Algorithms, and System Design. My primary expertise lies in building robust backend systems using **Java & Spring Boot**, and I have a deep passion for leveraging **Python** to develop and integrate machine learning models.
-
-- 🔭 I’m currently a **Product Development Intern** at **NIT Andhra Pradesh**, where I'm working on Generative AI solutions.
-- 🌱 I’m focused on solving complex problems related to distributed systems, performance optimization, and applied AI.
--  portfolio **My Portfolio:** **[YOUR-PORTFOLIO-LINK]**
-- 💬 Ask me about **Java, Spring Boot, Microservices, System Design, or RAG architectures**.
-- 📫 How to reach me: **govardhanasubhashmeda@gmail.com**
+- 🎯 **Goal:** To build intelligent, scalable systems by combining **Software Engineering** with **Artificial Intelligence**.
+- 💼 **Currently:** Product Development Intern @ **NIT Andhra Pradesh**.
+- 📍 **Based in:** India.
+- 💡 **Interests:** System Design, RAG, Microservices, and Cloud Architectures.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 My Tech Stack
 
-Here are the technologies I work with. My core strength is in the Java ecosystem, with extensive experience in Python for AI/ML.
+A collection of tools and technologies I use to bring ideas to life.
 
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <h4>Backend</h4>
-      <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" /></a>
-      <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring" /></a>
-      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python" /></a>
-      <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="Flask" /></a>
-    </td>
-    <td align="center" width="16%">
-      <h4>Frontend</h4>
-      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
-      <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></a>
-    </td>
-    <td align="center" width="16%">
-      <h4>Databases</h4>
-      <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /></a>
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
-      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /></a>
-    </td>
-    <td align="center" width="16%">
-      <h4>AI/ML</h4>
-      <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="40" height="40" alt="Scikit-learn" /></a>
-      <a href="https://openai.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" /></a>
-      <a href="https://www.pinecone.io/"><img src="https://pbs.twimg.com/profile_images/1634021329143291904/n-1b2t2C_400x400.jpg" width="40" height="40" alt="Pinecone" /></a>
-    </td>
-    <td align="center" width="16%">
-      <h4>Tools & DevOps</h4>
-      <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" /></a>
-      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /></a>
-      <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /></a>
-      <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
-    </td>
-  </tr>
-</table>
+| Category           | Technologies                                                                                                                                                                                                                                                              |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**      | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">                                                                |
+| **Backend**        | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Microservices-525252?style=for-the-badge&logo=redhat&logoColor=white"> <img src="https://img.shields.io/badge/REST_APIs-0277BD?style=for-the-badge&logo=swagger&logoColor=white"> |
+| **Frontend**       | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> |
+| **Databases**      | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">                                                                                                                                                                                                                                                        |
+| **AI/ML & Tools**  | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Pinecone-3B77F4?style=for-the-badge&logo=pinecone&logoColor=white"> <img src="https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white">                               |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> |
 
 ---
 
+### 🌟 Featured Projects
+
+Here are some projects I'm proud of.
+
+#### 🧠 AI-Powered Solutions
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Intelligent Document Search](https://github.com/Govardhan-subhash/IntellDocSearch)** | A RAG system for semantic document search. | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pinecone-3B77F4?style=flat&logo=pinecone&logoColor=white"> |
+| **[AI Financial Advisor](https://github.com/Govardhan-subhash/AI-financial_Advisory)** | Predicts investment risk with 90% accuracy using ML. | <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"> |
+
+#### 🌐 Full-Stack & Web Applications
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Pharmacy College Website](https://svips.ac.in)** | Official site for Sri Vasavi Institute of Pharmacy. | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> |
+| **[Online Quiz Application](https://github.com/Govardhan-subhash/onlinequizapplication)** | A full-stack quiz system for students. | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> |
+| **[E-Commerce Clone](https://github.com/Govardhan-subhash/React-e-Commerce)** | React frontend with PHP backend mimicking Amazon/Myntra. | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> |
+| **[TechEuphoria2k25](https://github.com/Govardhan-subhash/TechEuphoria2k25)** | Dynamic fest website for 1000+ students. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> |
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥈 **2nd Place Winner** at the Brainovision AWS Hackathon.
+- 🧩 **180+** problems solved on LeetCode & **500+** on GeeksforGeeks.
+- 👨‍🏫 **Core Member** of the Microsoft Learn Student Club (2024–present).
+- 📜 **Certified in:** Azure AI Fundamentals, OCI Generative AI, NPTEL Computer Networks, and more.
+
+---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govardhan-subhash&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Govardhana's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhan-subhash&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Govardhan-subhash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Govardhan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govardhan-subhash&theme=tokyonight&hide_border=true" alt="Govardhan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhan-subhash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
-
-### 🏆 Achievements & Recognition
-
-- **Hackathon Winner:** Secured **2nd Place** among 40+ teams in a college-level hackathon organized by Brainovision, focused on building innovative solutions with AWS.
-- **Competitive Programming:**
-  - **LeetCode:** Solved 180+ problems. [View Profile](https://leetcode.com/G_Subhash/)
-  - **GeeksforGeeks:** Solved 500+ problems. [View Profile](https://auth.geeksforgeeks.org/user/subashsuo86o/)
-- **Leadership:** Active as a **Core Member** of the **Microsoft Learn Student Club**, contributing to technical workshops and community events.
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/govardhana-subhash-9392676529k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://[YOUR-PORTFOLIO-LINK]" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/globe--v1.png" alt="Portfolio" width="40" height="40" />
-  </a>
-  <a href="mailto:govardhanasubhashmeda@gmail.com">
-    <img src="https://www.gstatic.com/images/icons/material/product/2x/gmail_48dp.png" alt="Gmail" width="40" height="40" />
-  </a>
+<div align="center">
+<h3>📬 Let's Connect!</h3>
+<p>Feel free to reach out for collaborations or a friendly chat!</p>
+<p>
+  <a href="https://www.linkedin.com/in/govardhana-subhash-9392676529k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:govardhanasubhashmeda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Govardhan-subhash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+</div>
