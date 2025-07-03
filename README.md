@@ -1,16 +1,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <h1 align="center">Hi there, I'm Govardhana Subhash Meda</h1>
-  <h3 align="center"> A Software Development Engineer passionate about building intelligent, scalable systems at the intersection of AI and core software engineering.</h3>
+  <h3 align="center"> A Computer Science and Artificial Intelligent Student  passionate about building intelligent, scalable systems at the intersection of AI and core software engineering.</h3>
 </div>
 
 <p align="center">
   <!-- ⬅️ Add your portfolio link here -->
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/My_Portfolio-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+  <a href="https://govardhana-subhash.github.io/portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/govardhana-subhash-9392676529k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:govardhanasubhashmeda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/G_Subhash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/subhashsuo86o/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
@@ -85,7 +85,7 @@ Here are some projects I'm proud of.
 <p>I'm always open to new opportunities and collaborations. Feel free to check out my portfolio, connect with me on LinkedIn, or drop me an email!</p>
 <p>
   <!-- ⬅️ Add your portfolio link here -->
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/My_Portfolio-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+  <a href="https://govardhana-subhash.github.io/portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/govardhana-subhash-9392676529k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:govardhanasubhashmeda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Govardhan-subhash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
